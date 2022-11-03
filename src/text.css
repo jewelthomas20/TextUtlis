@@ -1,0 +1,48 @@
+
+.TextContainer{
+    height: 91.5vh;
+    padding: 2.6em 1.3em;
+    margin-top: -0.9em;
+
+}
+.formCard{
+    display: inline-block;
+    padding: 2.6em 1.3em;
+    margin: 0 15em;
+}
+.TextContainerBlack .formCard{
+    display: inline-block;
+    padding: 2.6em 1.3em;
+    margin: 0 15em;}
+.TextContainerBlack{
+    background-color: #042743;
+    height: 90.8vh;
+    padding: 2.6em 1.3em;
+    margin-top: -0.1em;
+    color: white;
+}
+
+.TextContainerBlack textarea{
+    background-color: #042743;
+    color: white;
+}
+.TextContainerBlack button{
+    padding: .6em;
+    margin:15px 9px;
+    border-radius: 8%;
+    font-family:Cambria, Cochin ;
+    background-color: #337ab7;
+    color: white;
+
+}
+
+.TextContainer button{
+    padding: .5em 1em;
+    margin:15px 9px;
+    border-radius: 6%;
+    font-size: 14px;
+    background-color:#337ab7;
+    color: white;
+    font-family:Cambria, Cochin ;
+
+}
